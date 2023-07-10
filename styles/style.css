@@ -100,10 +100,22 @@ main {
   width: 464px;
   height: 538px;
   border-radius: 300px 300px 0px 0px;
-
   display: flex;
   align-items: flex-end;
   justify-content: center;
+}
+.display-img1 {
+  width: 310px;
+  height: 428px;
+}
+.display-img2 {
+  align-self: center;
+  width: 370px;
+  height: 370px;
+}
+.display-img3 {
+  width: 314px;
+  height: 471px;
 }
 .display-items1-color {
   background: rgba(167, 33, 98, 0.15);
