@@ -88,3 +88,42 @@ main {
   line-height: 30px;
   margin: auto;
 }
+/* flower display section */
+.display-section {
+}
+.display-section {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 60px;
+}
+.display-items {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.display-items1-color {
+  background: rgba(167, 33, 98, 0.15);
+}
+.display-items2-color {
+  background: rgba(5, 151, 160, 0.15);
+}
+.display-items3-color {
+  background: rgba(71, 125, 17, 0.15);
+}
+.flower-caption {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 32px;
+}
+.flower-caption-item {
+  text-decoration: underline;
+  color: #272727;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 35px;
+}
