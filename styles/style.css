@@ -141,6 +141,32 @@ main {
   line-height: 35px;
 }
 
+/* my own created section styles */
+.my-section {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 110px;
+  font-family: "Roboto", "Lato";
+}
+.sec-items {
+  text-align: center;
+}
+.sec-items img {
+  /* border-radius: 5px; */
+  box-shadow: 3px 3px 8px rgba(167, 33, 98, 0.15);
+  margin-bottom: 25px;
+}
+.item-description {
+  color: #272727;
+  margin-bottom: 15px;
+  font-size: large;
+  /* text-decoration: underline; */
+}
+.item-price {
+  font-size: x-large;
+  color: #272727;
+}
+
 /* optional section style part */
 .optional {
   display: flex;
