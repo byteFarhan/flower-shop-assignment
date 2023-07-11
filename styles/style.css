@@ -224,3 +224,10 @@ span {
   line-height: 30px;
   margin: auto;
 }
+
+/* flower album style part  */
+.album {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
