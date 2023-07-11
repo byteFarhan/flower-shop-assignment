@@ -204,15 +204,23 @@ span {
 
 /* Instagram part */
 .instagram {
+  text-align: center;
+  margin-top: 110px;
 }
 .insta-hadding {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 25px;
 }
 .insta-description {
+  display: flex;
+  width: 594px;
+  flex-direction: column;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: auto;
 }
-/* color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal; */
